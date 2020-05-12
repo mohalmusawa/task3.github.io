@@ -10,7 +10,7 @@
 	<title>Homepage</title>
 	<link rel="icon" href="favicon.png" type="image/png">
 	<link href="css/bootstrap.css" rel="stylesheet" type="text/css">
-	<link href="css/style.css" rel="stylesheet" type="text/css">
+	<link href="style.css" rel="stylesheet" type="text/css">
 	<link href="css/linecons.css" rel="stylesheet" type="text/css">
 	<link href="css/font-awesome.css" rel="stylesheet" type="text/css">
 	<link href="css/responsive.css" rel="stylesheet" type="text/css">
